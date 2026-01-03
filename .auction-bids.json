@@ -1,0 +1,72 @@
+[
+  {
+    "bidderIndex": 0,
+    "address": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+    "bidAmount": "1000000000000000000",
+    "secret": "secret-1w95nuxsajojrrfs-0",
+    "commitment": "0xa12ad4492c2452138662b264fe3f3bc5dfd53984fcd5bb78bc270cf56bcf0444"
+  },
+  {
+    "bidderIndex": 1,
+    "address": "0x3c44cdddb6a900fa2b585dd299e03d12fa4293bc",
+    "bidAmount": "2000000000000000000",
+    "secret": "secret-1c3992fb0dmj8k9j-1",
+    "commitment": "0xa04bea3121785921b69f45425f456006232c0fdc07a0fbd9cf9b3e21a2c691d8"
+  },
+  {
+    "bidderIndex": 2,
+    "address": "0x90f79bf6eb2c4f870365e785982e1f101e93b906",
+    "bidAmount": "3000000000000000000",
+    "secret": "secret-4p1wwiuv3ajcv4fs-2",
+    "commitment": "0xcbed4706b8c1e879e95e97402eb28cacc67fba6852d70607350a4173319f13e6"
+  },
+  {
+    "bidderIndex": 3,
+    "address": "0x15d34aaf54267db7d7c367839aaf71a00a2c6a65",
+    "bidAmount": "4000000000000000000",
+    "secret": "secret-7spkty5ok78wrv8h-3",
+    "commitment": "0x87ed90bac6bb29133cc0919f0c1320f2f015d9773a162b76f114465d46a74250"
+  },
+  {
+    "bidderIndex": 4,
+    "address": "0x9965507d1a55bcc2695c58ba16fb37d819b0a4dc",
+    "bidAmount": "5000000000000000000",
+    "secret": "secret-ev1mljgkgeua3sjs-4",
+    "commitment": "0x529785fd8b757c307fd9460a2d2c1c19d93e75c69873b8f3205e71c721aba6c6"
+  },
+  {
+    "bidderIndex": 5,
+    "address": "0x976ea74026e726554db657fa54763abd0c3a0aa9",
+    "bidAmount": "6000000000000000000",
+    "secret": "secret-libk5u7dsudkwi94-5",
+    "commitment": "0x2367f6ab0b29cc09c45b0afb46955960dc30748959a960b28c8f6c246bad802e"
+  },
+  {
+    "bidderIndex": 6,
+    "address": "0x14dc79964da2c08b23698b3d3cc7ca32193d9955",
+    "bidAmount": "7000000000000000000",
+    "secret": "secret-omf1ookl7tw8d0rw-6",
+    "commitment": "0x192312cdc1f695ac28066e6d84dabfc0ebfdeb974dbe66847dbb017b22b7379f"
+  },
+  {
+    "bidderIndex": 7,
+    "address": "0x23618e81e3f5cdf7f54c3d65f7fbc0abf5b21e8f",
+    "bidAmount": "8000000000000000000",
+    "secret": "secret-ysisxddt57l9delw-7",
+    "commitment": "0x91e612945b21546fce6f5fb0d0463428656ad82b4ba3fbc12727ca3189e31c76"
+  },
+  {
+    "bidderIndex": 8,
+    "address": "0xa0ee7a142d267c1f36714e4a8f75612f20a79720",
+    "bidAmount": "9000000000000000000",
+    "secret": "secret-7fjystpj81t1f0j6-8",
+    "commitment": "0x1cbe6794ddf8a77c106750af9eb1714e742c5b27aeea35113c64116e301931d9"
+  },
+  {
+    "bidderIndex": 9,
+    "address": "0xbcd4042de499d14e55001ccbb24a551f3b954096",
+    "bidAmount": "10000000000000000000",
+    "secret": "secret-40l5l4w7j4mjp6dx-9",
+    "commitment": "0x914547575eb4cbff23b947b217b4c77dfd7436ce945893bd33c947be33598e7c"
+  }
+]
